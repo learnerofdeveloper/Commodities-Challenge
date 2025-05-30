@@ -1,1 +1,0 @@
-# SloozeFrontend-Challenge
